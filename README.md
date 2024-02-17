@@ -8,6 +8,8 @@ Developing a predictive analytics system to identify and support students at ris
 ![Image 3](https://github.com/roshni-1/Predictive-Analytics-for-Student-Success/blob/main/countplot%20for%20course%20enrollments.png)
 ![Image 4](https://github.com/roshni-1/Predictive-Analytics-for-Student-Success/blob/main/enrollmentby%20extracurricular%20participation.png)
 ![Image 5](https://github.com/roshni-1/Predictive-Analytics-for-Student-Success/blob/main/feedback%20score%20distribution.png)
-![Image 6](https://github.com/roshni-1/Predictive-Analytics-for-Student-Success/blob/main/correlation%20heatmap.png)
+![Image 6](https://github.com/roshni-1/Predictive-Analytics-for-Student-Success/blob/main/gender%20distribution%20pie%20chart.png)
+![Image 7](https://github.com/roshni-1/Predictive-Analytics-for-Student-Success/blob/main/correlation%20heatmap.png)
+![Image 8](https://github.com/roshni-1/Predictive-Analytics-for-Student-Success/blob/main/overall%20correlation.png)
 
 ## Project In progress. Will upload ASAP
